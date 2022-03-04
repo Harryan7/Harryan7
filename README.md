@@ -2,7 +2,7 @@
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀!
 - 🔭 I’m currently working on a large and special application.
-- 🌱 I’m currently learning �
+- 🌱 I’m currently learning Python �
 - 🤔 I’m looking for help with Python
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 Getting a job at a software company 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and play soccer 
