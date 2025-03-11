@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python �
 - 🤔 I’m looking for help with Python
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 Getting a job at a software company 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and play soccer 
+- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play soccer 
 - A CV made with HTML CSS JS = https://harryan7.github.io/CV/
 
 ### 📩 Connect with me:
