@@ -3,8 +3,8 @@
 ## I'm a still Student 👨‍🎓, Full Stack Developer and IT Specialist 🚀!
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning Python �
-- 🤔 I’m looking for help with Python
-- 🥅 2022 Goals: Developing an app to be heard in the world 🌎 Getting a job at a software company 🤖
+- 🤔 I’m looking for help with Python. 2025 : Looking help for developing games for android or pc. 
+- 🥅 2024 Goals: Developing an app to be heard in the world 🌎 Update: 2025 - Builted an app but still working on it!
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play soccer 
 - A CV made with HTML CSS JS = https://harryan7.github.io/CV/
 
